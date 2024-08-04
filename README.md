@@ -7,7 +7,7 @@ Fatal error: Uncaught Error: Call to undefined function mysql_connect() in C:\xa
 Well for the new ones out there installing this lab for the first time at the end, I have provided the steps to install, you can skip this chat & further jump onto the installation steps. This chat is just for the ones who faced the above mentioned error. So guys want to know what was the problem? Well it was just the version of the PHP used in Xampp. We downloaded the latest xampp application and it had latest version of PHP. There was a conflict in the PHP versison of lastest Xampp and  php version used in this sqli lab. I have provided which xampp version you need to download in the below installtion steps. Quickly go, install it & enjoy your sqli dumbs series labs. ======================================================================================================================================================
 
 Steps to install Sqli labs in Windows
-1) Download & Install the given version only of Xampp (xampp-win32-5.6.30-1-VC11-installer) or else  will face the above mentioned error. Link to download https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.30/
+1) Download & Install the given version only of Xampp (xampp-win32-5.6.30-1-VC11-installer) or else you will face the above mentioned error. Link to download https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.30/
 2) Download and extract the sqli-lab-master which is provided in my repo.
 3) copy the sqli-lab-master folder to C drive/xampp/htdocs/
 4) Run xampp start Apache and Mysql
