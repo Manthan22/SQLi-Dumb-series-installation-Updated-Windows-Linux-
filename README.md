@@ -4,3 +4,4 @@ I know after watching thousands of repositories and youtube videos on How to ins
 
 Fatal error: Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\sqli-labs-master\sql-connections\setup-db.php:29 Stack trace: #0 {main} thrown in C:\xampp\htdocs\sqli-labs-master\sql-connections\setup-db.php on line 29Fatal error: Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\sqli-labs-master\sql-connections\setup-db.php:29 Stack trace: #0 {main} thrown in C:\xampp\htdocs\sqli-labs-master\sql-connections\setup-db.php on line 29.
 ======================================================================================================================================================
+
